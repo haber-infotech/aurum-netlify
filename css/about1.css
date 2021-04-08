@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px 5px;
+}
+#footer{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    background-color: hotpink;
+}
